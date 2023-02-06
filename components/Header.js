@@ -61,7 +61,7 @@ function Header() {
           <HeartIcon className="navBtn" />
 
           <img
-            src="https://lh3.googleusercontent.com/a/AEdFTp6uCuE93tQRn6aXp9Jky2bfkJCO426V5nUArVrRBQ=s360-p-rw-no"
+            src="https://yt3.ggpht.com/yti/AHXOFjVE8pjUQMlf-uebuPfHk91vB7D869FRQwD3_XDxgw=s108-c-k-c0x00ffffff-no-rj"
             alt="profile pic"
             className="h-10 rounded-full cursor-pointer"
           />
