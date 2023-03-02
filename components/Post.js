@@ -47,13 +47,15 @@ function Post({ id, username, userImg, img, caption }) {
       {/* Comments */}
 
       {/* Input Box */}
-
       <form className="flex items-center p-4">
         <EmojiHappyIcon className="h-7" />
-        <input type="text" placeholder="Add a comment..." className="border-none flex-1 focus:ring-0 outline-none" />
+        <input
+          type="text"
+          placeholder="Add a comment..."
+          className="border-none flex-1 focus:ring-0 outline-none"
+        />
         <button className="font-semibold text-blue-400">Post</button>
       </form>
-      {/* 2:17:09 https://www.youtube.com/watch?v=a6Xs2Ir40OI */}
     </div>
   );
 }
